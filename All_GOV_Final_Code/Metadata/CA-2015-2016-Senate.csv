@@ -1,0 +1,869 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"1","1-800 CONTACTS","Health Services","Health","Optical services (glasses & contact lenses)",100,0,"#0000FFAF","#0000FFAF",3000
+"10021","ANESTHESIA SERVICE MEDICAL GROUP / CALIFORNIA ANESTHESIA ASSOCIATES","Health Professionals","Health","Other physician specialists",65.5172413793103,34.4827586206897,"#00004DAF","#00004DAF",8700
+"10041","ANTHEM INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",70.8894878706199,29.1105121293801,"#000066AF","#000066AF",37100
+"10047","APARTMENT ASSOCIATION OF CALIFORNIA SOUTHERN CITIES","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"10063","APPLIED MATERIALS","Computer Equipment & Services","Communications & Electronics","Computers, components & accessories",100,0,"#0000FFAF","#0000FFAF",3500
+"10118","ASIAN AMERICAN SMALL BUSINESS","Minority & Disability Groups","Ideology/Single Issue","Minority & ethnic groups",96.1538461538462,3.84615384615385,"#0000EBAF","#0000EBAF",26000
+"10128","ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",7000
+"10129","AMERICAN ASSOCIATION OF PUBLISHERS","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",100,0,"#0000FFAF","#0000FFAF",2000
+"10131","ASSOCIATION OF CALIFORNIA STATE SUPERVISORS","Public Sector Unions","Labor","State & local government employee unions",91.977760127085,8.02223987291501,"#0000D1AF","#0000D1AF",62950
+"10149","ASTELLAS PHARMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",93.3333333333333,6.66666666666667,"#0000DBAF","#0000DBAF",15000
+"1020","UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION / UFCW","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",11200
+"1025","FORD MOTOR CO","Automotive","Transportation","Auto manufacturers",75.5102040816327,24.4897959183673,"#00007FAF","#00007FAF",24500
+"1039","NEXTERA ENERGY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",87.1794871794872,12.8205128205128,"#0000BDAF","#0000BDAF",11700
+"10395","SAN DIEGO BIOTECHNOLOGY","Pharmaceuticals & Health Products","Health","Biotech products & research",100,0,"#0000FFAF","#0000FFAF",7181
+"10450","BLUE SHIELD OF CALIFORNIA","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",81.7177914110429,18.2822085889571,"#00009EAF","#00009EAF",81500
+"105204","ROUDA FEDER TIETJEN & MCGUINN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3720
+"10670","BURRTEC WASTE INDUSTRIES","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",10500
+"10675006","TRACFONE WIRELESS","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",100,0,"#0000FFAF","#0000FFAF",11750
+"10707","CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS","Health Professionals","Health","Optometrists & ophthalmologists",70.4301075268817,29.5698924731183,"#000066AF","#000066AF",18600
+"10708","CALIFORNIA ACADEMY OF FAMILY PHYSICIANS","Health Professionals","Health","Physicians",100,0,"#0000FFAF","#0000FFAF",15792.72
+"10710","CALIFORNIA ACADEMY OF PHYSICIAN ASSISTANTS","Health Professionals","Health","Other non-physician health practitioners",82.7586206896552,17.2413793103448,"#0000A3AF","#0000A3AF",5800
+"10713","CALIFORNIA ALARM ASSOCIATION","Business Services","General Business","Security services",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",9000
+"10716","CALIFORNIANS ALLIED FOR PATIENT PROTECTION","Health & Welfare Policy","Ideology/Single Issue","Health & welfare policy",94.9850353454709,5.01496465452912,"#0000E0AF","#0000E0AF",19940.32
+"10717","CALIFORNIA AMBULANCE ASSOCIATION","Health Services","Health","Health care services",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",8250
+"10721","CALIFORNIA ASSISTED LIVING ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",41300
+"10723","CALIFORNIA ASSOCIATION OF NURSE PRACTITIONERS","Health Professionals","Health","Nurses",100,0,"#0000FFAF","#0000FFAF",18113.8
+"10725","CALIFORNIA ASSOCIATION OF COLLECTORS","Miscellaneous Finance","Finance, Insurance & Real Estate","Credit reporting services & collection agencies",46.4285714285714,53.5714285714286,"#140000AF","#140000AF",14000
+"10726","CALIFORNIA ASSOCIATION OF COMMUNITY MANAGERS","Civil Servants/Public Officials","Government Agencies/Education/Other","Municipal & county government organizations",100,0,"#0000FFAF","#0000FFAF",8000
+"10731","CALIFORNIA ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS","Health Professionals","Health","Dentists",100,0,"#0000FFAF","#0000FFAF",4500
+"10734","CALIFORNIA ASSOCIATION OF PROFESSIONAL LIABILITY INSURERS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",80,20,"#000099AF","#000099AF",5000
+"10737","CALIFORNIA ASSOCIATION OF WINEGRAPE GROWERS","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",5500
+"10743","CALIFORNIA CATTLEMENS ASSOCIATION","Livestock","Agriculture","Livestock",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",13500
+"10749","CALIFORNIA CORRECTIONAL SUPERVISORS ORGANIZATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",6500
+"10751","CALIFORNIA COMPENSATION DEFENSE ATTORNEYS ASSOCIATION","Civil Servants/Public Officials","Government Agencies/Education/Other","Courts & justice system",83.1223628691983,16.8776371308017,"#0000A8AF","#0000A8AF",47400
+"10753","CALIFORNIA DENTAL HYGIENISTS ASSOCIATION","Health Professionals","Health","Dentists",100,0,"#0000FFAF","#0000FFAF",11600
+"10761","CALIFORNIA GRAIN & FEED ASSOCIATION","Livestock","Agriculture","Feedlots & related livestock services",80.5194805194805,19.4805194805195,"#000099AF","#000099AF",15400
+"10764","CALIFORNIA INDEPENDENT OIL MARKETERS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",30000
+"10765","CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",73.4641491810152,26.5358508189848,"#000075AF","#000075AF",39569.11
+"10766","CALIFORNIA LAND & TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",66.4576802507837,33.5423197492163,"#000052AF","#000052AF",31900
+"10769","CALIFORNIA LEAGUE OF FOOD PROCESSORS","Food Processing & Sales","Agriculture","Food & beverage products and services",69.2307692307692,30.7692307692308,"#000061AF","#000061AF",6500
+"10774","CALIFORNIA MOBILE HOME PARK OWNERS ALLIANCE","Real Estate","Finance, Insurance & Real Estate","Mobile home dealers & parks",0,100,"#FF0000AF","#FF0000AF",2000
+"10775","CALIFORNIA MORTGAGE BANKERS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",62.6118067978533,37.3881932021467,"#00003DAF","#00003DAF",55900
+"10777","CALIFORNIA NEVADA SOFT DRINK ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",9000
+"10778","CALIFORNIA NEW CAR DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",73.195020746888,26.804979253112,"#000075AF","#000075AF",120500
+"10780","CALIFORNIA ORTHOTICS & PROSTHETICS ASSOCIATION","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",100,0,"#0000FFAF","#0000FFAF",7500
+"10782","CALIFORNIA PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",73.7762237762238,26.2237762237762,"#000075AF","#000075AF",14300
+"10787","CALIFORNIA STATE PSYCHOLOGICAL ASSOCIATION","Health Professionals","Health","Psychiatrists & psychologists",100,0,"#0000FFAF","#0000FFAF",4000
+"10790","CALIFORNIA RADIOLOGICAL SOCIETY","Health Professionals","Health","Other physician specialists",70.8333333333333,29.1666666666667,"#000066AF","#000066AF",24000
+"10792","CALIFORNIA RETAILERS ASSOCIATION","Retail Sales","General Business","Retail trade",100,0,"#0000FFAF","#0000FFAF",15164.04
+"10793","CALIFORNIA RICE INDUSTRY ASSOCIATION","Crop Production & Basic Processing","Agriculture","Other commodities (including rice, peanuts, honey)",100,0,"#0000FFAF","#0000FFAF",10350
+"10795","CALIFORNIA SOCIETY OF PLASTIC SURGEONS","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",10800
+"10796","CALIFORNIA STAFFING PROFESSIONALS","Business Services","General Business","Employment agencies",50,50,"#000000AF","#000000AF",6000
+"10819","CALIFORNIANS FOR JOBS & A STRONG ECONOMY","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",10400
+"1084","GENERAL ELECTRIC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",100,0,"#0000FFAF","#0000FFAF",7400
+"10852","CAN MANUFACTURERS INSTITUTE","Miscellaneous Manufacturing & Distributing","General Business","Metal cans & containers",62.5,37.5,"#00003DAF","#00003DAF",11200
+"1087","GENERAL MOTORS","Automotive","Transportation","Auto manufacturers",84.3971631205674,15.6028368794326,"#0000ADAF","#0000ADAF",42300
+"10893","CARE AMBULANCE SERVICES","Health Services","Health","Health care services",17.2413793103448,82.7586206896552,"#A80000AF","#A80000AF",10150
+"1091","GENESIS HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",80,20,"#000099AF","#000099AF",15000
+"11024517","PLUMBERS & STEAMFITTERS LOCAL 761","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3100
+"11026082","CALIFORNIA INDEPENDENT TELEPHONE ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",75.7575757575758,24.2424242424242,"#00007FAF","#00007FAF",29700
+"11105","CIVIL JUSTICE ASSOCIATION OF CALIFORNIA","Business Associations","General Business","Pro-business organizations",92.7536231884058,7.2463768115942,"#0000D6AF","#0000D6AF",13800
+"11128","CLEAN ENERGY FUELS CORP","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",15275
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",11000
+"11291","COMMUNITY LOANS OF AMERICA","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",88,12,"#0000C2AF","#0000C2AF",12500
+"113147","RICARDO LARA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",16800
+"11335","CONSTRUCTION EMPLOYERS ASSOCIATION","General Contractors","Construction","Builders associations",85.781990521327,14.218009478673,"#0000B3AF","#0000B3AF",42200
+"113907","LOS ANGELES SCHOOL POLICE ASSOCATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",6100
+"11410","COVANTA ENERGY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",16000
+"11411","COVENANT CARE","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",8000
+"1146","GREEN DIAMOND RESOURCE CO","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"1147","GREENBERG TRAURIG LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",73.0769230769231,26.9230769230769,"#000075AF","#000075AF",26000
+"11470","CALIFORNIA STATEWIDE LAW ENFORCEMENT ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",94.4029850746269,5.59701492537313,"#0000E0AF","#0000E0AF",53600
+"11511","DAIICHI SANKYO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",4900
+"116","AMERICAN CHEMISTRY COUNCIL","Chemical & Related Manufacturing","General Business","Chemicals",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",9000
+"11659","DENTISTS INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",100,0,"#0000FFAF","#0000FFAF",7000
+"116770","CALIFORNIA ASSOCIATION OF PROFESSIONAL EMPLOYEES","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",9000
+"11853","EBAY","Computer Equipment & Services","Communications & Electronics","Online computer services",100,0,"#0000FFAF","#0000FFAF",3500
+"11860","DISH NETWORK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",74.0740740740741,25.9259259259259,"#00007AAF","#00007AAF",27000
+"11878","EDUCATION MANAGEMENT CORP","Education","Government Agencies/Education/Other","Education",100,0,"#0000FFAF","#0000FFAF",23000
+"11881","EDVOICE","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",85.0187265917603,14.9812734082397,"#0000B3AF","#0000B3AF",26700
+"11932","EMS MANAGEMENT","Health Services","Health","Health care services",79.6116504854369,20.3883495145631,"#000094AF","#000094AF",20600
+"11942","ENGINEERING & UTILITY CONTRACTORS ASSOCIATION","General Contractors","Construction","Builders associations",62.1212121212121,37.8787878787879,"#00003DAF","#00003DAF",6600
+"11953976","EDP RENEWABLES NORTH AMERICA","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",1000
+"1198","HARTFORD FINANCIAL SERVICES","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",78.1609195402299,21.8390804597701,"#00008FAF","#00008FAF",43500
+"12001401","ANTHONY CANNELLA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",16800
+"12001510","MIKE MORRELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",16400
+"12055","FAMILY WINEMAKERS OF CALIFORNIA","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",100,0,"#0000FFAF","#0000FFAF",1296
+"121071","SIERRA CLUB LOS ANGELES CHAPTER","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",3250
+"1212","HEALTH NET INC","Health Services","Health","HMOs",62.1681415929204,37.8318584070796,"#00003DAF","#00003DAF",45200
+"1216606","R&J JEWELRY & LOAN","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",100,0,"#0000FFAF","#0000FFAF",750
+"12225560","SKINNER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3500
+"12225612","MARTY BLOCK CAMPAIGN CMTE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",9548
+"12225620","ROB BONTA FOR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",22800
+"12265","FOSTER POULTRY FARMS","Poultry & Eggs","Agriculture","Poultry & eggs",100,0,"#0000FFAF","#0000FFAF",13500
+"1226961","TEAMSTERS LOCAL 856","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",7044.25
+"1233","HEWLETT PACKARD","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",73.6994219653179,26.3005780346821,"#000075AF","#000075AF",34600
+"124248","BOYETT PETROLEUM","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",100,0,"#0000FFAF","#0000FFAF",1500
+"124312","WESTERN PACIFIC ROOFING CORP","Special Trade Contractors","Construction","Special trade contractors",0,100,"#FF0000AF","#FF0000AF",3225
+"1252","HNTB CORP","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",7000
+"12521","GOOGLE","Computer Equipment & Services","Communications & Electronics","Online computer services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",24000
+"1259","HOLLAND & KNIGHT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",8000
+"1259672","JEROME E HORTON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",7700
+"12600","GREENE BROILLET & WHEELER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",41200
+"1261","HOME DEPOT","Retail Sales","General Business","Hardware & building materials stores",100,0,"#0000FFAF","#0000FFAF",12200
+"1269570","INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES / IUPAT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",50500
+"127","AMERICAN COUNCIL OF LIFE INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",100,0,"#0000FFAF","#0000FFAF",4500
+"12867","HMS HOLDINGS CORP","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",100,0,"#0000FFAF","#0000FFAF",3000
+"12970","HOWARD JARVIS TAXPAYERS ASSOCIATION","Tax Issues","Ideology/Single Issue","Fiscal & tax policy",0,100,"#FF0000AF","#FF0000AF",78500
+"130279","CALIFORNIA SPEECH-LANGUAGE-HEARING ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",100,0,"#0000FFAF","#0000FFAF",2000
+"131133","NORTHGATE GONZALEZ LLC","Uncoded","Uncoded","Uncoded",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"132","AMERICAN FAMILY LIFE ASSURANCE CO / AFLAC","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",84,16,"#0000ADAF","#0000ADAF",12500
+"133498","TONY THURMOND CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",32200
+"1335","INTERNATIONAL FRANCHISE ASSOCIATION","Business Associations","General Business","General business associations",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",3500
+"1336","INTERNATIONAL GAME TECHNOLOGY","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",4000
+"1338","INTERNATIONAL PAPER","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",91.0714285714286,8.92857142857143,"#0000D1AF","#0000D1AF",16800
+"13474118","MIDLAND CREDIT MANAGEMENT","Miscellaneous Finance","Finance, Insurance & Real Estate","Financial services & consulting",100,0,"#0000FFAF","#0000FFAF",8000
+"13475503","DAVID NAHAI CONSULTING SERVICES LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"13475602","RECURRENT ENERGY DEVELOPMENT HOLDINGS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",9250
+"13476752","TAXICAB PARATRANSIT ASSOCIATION OF CALIFORNIA LIFTPAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3200
+"13477497","CALIFORNIA TRAILBLAZERS","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",28940.76
+"135345","SIGNATURE HOMES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"13722","LOCAL SOCIETIES OF THE CALIFORNIA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",96.4028776978417,3.59712230215827,"#0000EBAF","#0000EBAF",27800
+"137295","ASSOCIATED BUILDERS & CONTRACTORS CUMBERLAND VALLEY","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",9400
+"13753","LOS ANGELES COLLEGE FACULTY GUILD LOCAL 1521","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",19196
+"13757","LOS ANGELES POLICE PROTECTIVE LEAGUE","Public Sector Unions","Labor","Police & fire fighters unions and associations",76.536312849162,23.463687150838,"#000085AF","#000085AF",35800
+"13796724","CALIFORNIA ASSOCIATION FOR BEHAVIOR ANALYSIS","Health Professionals","Health","Psychiatrists & psychologists",100,0,"#0000FFAF","#0000FFAF",3000
+"13797010","UNITED CONTRACTORS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",801.74
+"13797435","CALIFORNIA ENERGY EFFICIENCY INDUSTRY COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",13300
+"13797505","BAYBIO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5243.46
+"13797785","KEVIN DE LEON CAMPAIGN CMTE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",12600
+"13798524","ASSOCIATED BUILDERS & CONTRACTORS NORTHERN CALIFORNIA CHAPTER","Uncoded","Uncoded","Uncoded",22.3214285714286,77.6785714285714,"#8F0000AF","#8F0000AF",5600
+"13799510","PT GAMING LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"13802373","VEEN FIRM PC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8900
+"13804610","AITKEN AITKEN & COHN LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",6700
+"13810580","CHRIS HOLDEN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",16400
+"13810600","ANTHONY RENDON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",16600
+"1381265","OSCHIN PARTNERS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",350
+"13825","LUXOTTICA GROUP","Health Services","Health","Optical services (glasses & contact lenses)",95.9568733153639,4.04312668463612,"#0000E5AF","#0000E5AF",37100
+"13835","LYTTON RANCHERIA OF CALIFORNIA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",48.780487804878,51.219512195122,"#0A0000AF","#0A0000AF",8200
+"139350","CALIFORNIA STATE COUNCIL UNITE HERE!","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",8000
+"1396","JOHN DEERE & CO","Agricultural Services & Products","Agriculture","Farm machinery & equipment",100,0,"#0000FFAF","#0000FFAF",17500
+"139714","EQUALITY CALIFORNIA PAC","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",16600
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",36000
+"14007192","ASSOCIATION OF TALENT AGENTS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3500
+"14087","MEDICAL INSURANCE EXCHANGE OF CALIFORNIA","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",12000
+"14277","MITSUBISHI CEMENT CORP","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",22.6130653266332,77.3869346733668,"#8F0000AF","#8F0000AF",9950
+"1440","KINDRED HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",6000
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",79.0697674418605,20.9302325581395,"#000094AF","#000094AF",21500
+"1457","KOCH INDUSTRIES","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",12200
+"145975","ELECTRICAL WORKERS LOCAL 40","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",3500
+"146009","POLLY LOW FOR ROSEMEAD","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",750
+"1465","KPMG LLP","Accountants","Finance, Insurance & Real Estate","Accountants",92.8571428571429,7.14285714285714,"#0000D6AF","#0000D6AF",28000
+"14650","NOSSAMAN GUNTHER KNOX & ELLIOTT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",95.3488372093023,4.65116279069767,"#0000E5AF","#0000E5AF",21500
+"146525","CALIFORNIA ASIAN PACIFIC CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",100,0,"#0000FFAF","#0000FFAF",1500
+"1466","KRAFT FOODS","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",100,0,"#0000FFAF","#0000FFAF",13000
+"147672","IW GROUP INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"147763","USA PROPERTIES FUND INC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",62.6865671641791,37.3134328358209,"#00003DAF","#00003DAF",6700
+"14869","PACIFIC EGG & POULTRY ASSOCIATION","Poultry & Eggs","Agriculture","Poultry & eggs",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",5500
+"14870","PACIFIC FEDERAL INSURANCE CORP","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",100,0,"#0000FFAF","#0000FFAF",3000
+"14872","PACIFIC MERCHANT SHIPPING ASSOCIATION","Sea Transport","Transportation","Sea transport",100,0,"#0000FFAF","#0000FFAF",7000
+"14908","PARAMOUNT FARMING","Crop Production & Basic Processing","Agriculture","Vegetables, fruits & tree nuts",100,0,"#0000FFAF","#0000FFAF",27000
+"1491220","PACIFIC ASSOCIATION OF DOMESTIC INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",75,25,"#00007FAF","#00007FAF",4000
+"14932","PARSON TRANSPORTATION GROUP","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",2000
+"15045","PEST CONTROL OPERATORS OF CALIFORNIA","Miscellaneous Services","General Business","Pest control",100,0,"#0000FFAF","#0000FFAF",8000
+"151603","CALIFORNIA SOCIETY OF HEALTH SYSTEM PHARMACISTS","Health Professionals","Health","Pharmacists",100,0,"#0000FFAF","#0000FFAF",4500
+"1529","LEPRINO FOODS","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",100,0,"#0000FFAF","#0000FFAF",5200
+"153973","ATHENS SERVICES","Waste Management","Energy & Natural Resources","Waste management",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",2400
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",15000
+"15479","RESCARE INC","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",2500
+"1556114","JANET NGUYEN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",12600
+"15685","SA RECYCLING","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",100,0,"#0000FFAF","#0000FFAF",5000
+"15728","SAN FRANCISCO BAR PILOTS","Sea Transport","Transportation","Sea freight & passenger services",100,0,"#0000FFAF","#0000FFAF",23461.8
+"15732","SAN JOSE POLICE OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",6400
+"15737","SAN MATEO COUNTY DEMOCRATIC CENTRAL CMTE OF CALIFORNIA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",320000
+"15742419","AMERICAN SIKH PAC","Uncoded","Uncoded","Uncoded",82.4592176811086,17.5407823188914,"#0000A3AF","#0000A3AF",5701
+"157890","SCHETTER ELECTRIC INC","Special Trade Contractors","Construction","Electrical contractors",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",6000
+"15810","SCHNITZER STEEL INDUSTRIES","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",72.5490196078431,27.4509803921569,"#000070AF","#000070AF",12750
+"15833","SCOTTS MIRACLE-GRO CO","Agricultural Services & Products","Agriculture","Agricultural chemicals (fertilizers & pesticides)",100,0,"#0000FFAF","#0000FFAF",2500
+"15913252","CALIFORNIA TRAVEL INDUSTRY ASSOCIATION","Lodging & Tourism","General Business","Lodging & tourism",100,0,"#0000FFAF","#0000FFAF",5750
+"15935088","MILLERCOORS","Beer, Wine & Liquor","General Business","Beer",78.2608695652174,21.7391304347826,"#00008FAF","#00008FAF",25300
+"15955283","EDF RENEWABLE SERVICES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4000
+"15976","SKILLED HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",4000
+"1599","MACYS INC","Retail Sales","General Business","Department, variety & convenience stores",90.3225806451613,9.67741935483871,"#0000CCAF","#0000CCAF",15500
+"1602","MAERSK INC","Sea Transport","Transportation","Sea transport",50,50,"#000000AF","#000000AF",3000
+"16035180","CALIFORNIA ALLIANCE OF TAXPAYER ADVOCATES","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",4000
+"16035645","MOTOR VEHICLE SOFTWARE CORPORATION","Computer Equipment & Services","Communications & Electronics","Computer software",78.8113695090439,21.1886304909561,"#00008FAF","#00008FAF",38700
+"16035799","CALIFORNIA WATER ASSOCIATION","Uncoded","Uncoded","Uncoded",94.8051948051948,5.19480519480519,"#0000E0AF","#0000E0AF",19250
+"16036006","JEAN FULLER FOR SENATE 2014","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",37800
+"16036202","CALIFORNIA STATE UNIVERSITY EMPLOYEES UNION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",12200
+"16036570","CALIFORNIA COALITION FOR PUBLIC HIGHER EDUCATION","Uncoded","Uncoded","Uncoded",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",11000
+"16036618","EGGMAN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4000
+"16039","SONY PICTURES ENTERTAINMENT","TV & Movie Production/Distribution","Communications & Electronics","Motion picture production & distribution",92.5925925925926,7.40740740740741,"#0000D6AF","#0000D6AF",13500
+"16046029","LABORERS PACIFIC SOUTHWEST REGIONAL ORGANIZING COALITION","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",12750
+"1618","MANATT PHELPS & PHILLIPS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",23700.43
+"16191043","NOBLE AMERICAS ENERGY SOLUTIONS","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",100,0,"#0000FFAF","#0000FFAF",13250
+"16197285","DREYER BABICH BUCCOLA WOOD & CAMPORA LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",21000
+"16207028","NAPA COUNTY DEMOCRATIC CENTRAL CMTE OF CALIFORNIA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",305000
+"16334","T-MOBILE","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",5500
+"16339","TAKEDA PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",91.6666666666667,8.33333333333333,"#0000D1AF","#0000D1AF",12000
+"16387","TECHNET CALIFORNIA","Business Services","General Business","Political consultants & advisers",100,0,"#0000FFAF","#0000FFAF",6000
+"1639","MARRIOTT INTERNATIONAL","Lodging & Tourism","General Business","Hotels & motels",84.3421324584015,15.6578675415985,"#0000ADAF","#0000ADAF",22352.98
+"16394","TEJON RANCH","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",15.7232704402516,84.2767295597484,"#B30000AF","#B30000AF",15900
+"1650145","US HEALTHWORKS","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",3250
+"165043","GRAY GREER SHELBY & VAUGHN LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"16508691","UNITED AUBURN INDIAN COMMUNITY OF THE URBAN RANCHERIA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",3600
+"16533897","RENEWABLE FUNDING LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6000
+"16534106","REPLANET LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4000
+"16638","TRI-CAL INC","Agricultural Services & Products","Agriculture","Agricultural chemicals (fertilizers & pesticides)",100,0,"#0000FFAF","#0000FFAF",12250
+"1669","MCDONALDS LOCAL OWNERS OPERATORS OF ARKANSAS","Food & Beverage","General Business","Restaurants & drinking establishments",65.8119658119658,34.1880341880342,"#00004DAF","#00004DAF",46800
+"16741209","AFSCME DISTRICT COUNCIL 57","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",153050
+"1675","MCKESSON CORP","Health Services","Health","Health care services",80,20,"#000099AF","#000099AF",10000
+"16860893","ORANGE COUNTY PROFESSIONAL FIRE FIGHTERS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8200
+"16933400","REAL SOLUTIONS TO LEAD CALIFORNIA","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",8400
+"16933737","NATIONAL UNION OF HEALTHCARE WORKERS","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",2000
+"16945","WALKUP MELODIA KELLY & SCHOENBERGER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",9400
+"16946805","VIGILANT SOLUTIONS INC","Uncoded","Uncoded","Uncoded",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"16961565","LONGSHORE & WAREHOUSE LOCAL 94","Transportation Unions","Labor","Merchant marine & longshoremen unions",100,0,"#0000FFAF","#0000FFAF",8400
+"16963","WARNER BROTHERS","TV & Movie Production/Distribution","Communications & Electronics","Broadcasting & motion pictures",50,50,"#000000AF","#000000AF",5000
+"17000302","CALIFORNIA ASSOCIATION OF PEST CONTROL ADVISERS","Miscellaneous Services","General Business","Pest control",100,0,"#0000FFAF","#0000FFAF",5400
+"17000313","PLUMBERS & PIPEFITTERS LOCAL 447","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",30500
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",7500
+"1703","MERCURY GENERAL CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",93.5897435897436,6.41025641025641,"#0000DBAF","#0000DBAF",31200
+"170434","ACTBLUE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",587.73
+"17073","WESTERN ELECTRICAL CONTRACTORS ASSOCIATION","Special Trade Contractors","Construction","Electrical contractors",26.3157894736842,73.6842105263158,"#7A0000AF","#7A0000AF",4750
+"17080","WESTERN PLANT HEALTH ASSOCIATION","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",95.4954954954955,4.5045045045045,"#0000E5AF","#0000E5AF",22200
+"171","AMERICAN RESORT DEVELOPMENT ASSOCIATION","Lodging & Tourism","General Business","Resorts",60,40,"#000033AF","#000033AF",5000
+"1725","MICROSOFT","Computer Equipment & Services","Communications & Electronics","Computer software",71.875,28.125,"#00006BAF","#00006BAF",32000
+"17299","CALIFORNIA CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",45.8483754512635,54.1516245487365,"#1A0000AF","#1A0000AF",55400
+"17359009","APARTMENT ASSOCIATION OF ORANGE COUNTY","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",0,100,"#FF0000AF","#FF0000AF",8000
+"17430033","ALLIANCE OF AUTOMOBILE MANUFACTURERS CALIFORNIA","Automotive","Transportation","Auto manufacturers",77.0334928229665,22.9665071770335,"#00008AAF","#00008AAF",41800
+"1753","MOLINA HEALTHCARE","Health Services","Health","HMOs",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",100,0,"#0000FFAF","#0000FFAF",34851.73
+"17600257","LIEFF CABRASER HEIMANN & BERNSTEIN LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8400
+"1771","MORONGO CASINO RESORT SPA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",79.0820621710471,20.9179378289529,"#000094AF","#000094AF",54498.68
+"17761778","FUELCELL ENERGY INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"179","AMERICAN STAFFING ASSOCIATION","Business Services","General Business","Employment agencies",0,100,"#FF0000AF","#FF0000AF",2000
+"1817","NATIONAL ASSOCIATION OF CHAIN DRUG STORES","Retail Sales","General Business","Drug stores",100,0,"#0000FFAF","#0000FFAF",9990
+"18333224","INDEPENDENT OIL PRODUCERS' AGENCY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",950
+"18638","DIRECTV GROUP","Cable TV","Communications & Electronics","Satellite TV operators",93.9393939393939,6.06060606060606,"#0000DBAF","#0000DBAF",16500
+"1864","NATIONWIDE MUTUAL INSURANCE CO","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"18734","CLEAR CHANNEL COMMUNICATIONS","TV & Movie Production/Distribution","Communications & Electronics","Commercial television & radio stations",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",5500
+"18774","CALIFORNIA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",82.6771653543307,17.3228346456693,"#0000A3AF","#0000A3AF",63500
+"18775","CALIFORNIA PHARMACISTS ASSOCIATION","Health Professionals","Health","Pharmacists",100,0,"#0000FFAF","#0000FFAF",24700
+"18824","PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",28400
+"1884","NEW MAJORITY CALIFORNIA","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",42000
+"18866","CALIFORNIA ASSOCIATION OF HEALTH FACILITIES","Hospitals & Nursing Homes","Health","Nursing homes",80.8027498220382,19.1972501779618,"#000099AF","#000099AF",75353.24
+"18899","PRIME HEALTHCARE","Hospitals & Nursing Homes","Health","Hospitals",0,100,"#FF0000AF","#FF0000AF",10900
+"1891","NIKE","Miscellaneous Manufacturing & Distributing","General Business","Personal products manufacturing",91.6666666666667,8.33333333333333,"#0000D1AF","#0000D1AF",12000
+"18927109","WOMENS POLITICAL CMTE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",21000
+"18929519","ABBVIE INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",89.3939393939394,10.6060606060606,"#0000C7AF","#0000C7AF",33000
+"18945","CALIFORNIA CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",10400
+"1896","NORCAL MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",100,0,"#0000FFAF","#0000FFAF",11500
+"18969","ALLIED GRAPE GROWERS","Crop Production & Basic Processing","Agriculture","Vegetables, fruits & tree nuts",100,0,"#0000FFAF","#0000FFAF",1000
+"19017","AMERICAN BANKERS INSURANCE CO OF FLORIDA","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",92.8571428571429,7.14285714285714,"#0000D6AF","#0000D6AF",28000
+"19021","AXCESS FINANCIAL SERVICES","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",86.2068965517241,13.7931034482759,"#0000B8AF","#0000B8AF",29000
+"19022","CALIFORNIA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"19104","CALIFORNIA CONFERENCE BOARD OF THE AMALGAMATED TRANSIT UNION","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",31300
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",76500
+"19132","AFSCME LOCAL 2620","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",21000
+"1915","NRG ENERGY","Electric Utilities","Energy & Natural Resources","Independent power generation & cogeneration",90.9246575342466,9.07534246575342,"#0000CCAF","#0000CCAF",58400
+"19150","AFSCME LOCAL 3090","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",3200
+"191707","KINECTA FEDERAL CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",100,0,"#0000FFAF","#0000FFAF",1750
+"19177","DOMESTIC WORKERS LOCAL 3930","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",47500
+"19178","UNITED NURSES ASSOCIATION OF CALIFORNIA / UNION OF HEALTH CARE PROFESSIONALS","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",83300
+"19198","CALIFORNIA FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",149200
+"19227","LOS RIOS COLLEGE FEDERATION OF TEACHERS LOCAL 2279","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1297
+"19255","UNIVERSITY COUNCIL FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1200
+"1926","OCCIDENTIAL PETROLEUM","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",24.5283018867925,75.4716981132076,"#850000AF","#850000AF",5300
+"193","AMERISOURCEBERGEN CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical wholesale",100,0,"#0000FFAF","#0000FFAF",7800
+"19325","COMMUNICATIONS WORKERS SOUTHERN CALIFORNIA COUNCIL","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",1000
+"19372472","HUMBOLDT REDWOOD COMPANY LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",10000
+"19443","CALIFORNIA DEPARTMENT OF FORESTRY FIRE FIGHTERS LOCAL 2881","Public Sector Unions","Labor","Police & fire fighters unions and associations",91.6113928989465,8.38860710105345,"#0000D1AF","#0000D1AF",64075
+"19445","CALIFORNIA PROFESSIONAL FIRE FIGHTERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",92.360026890048,7.63997310995203,"#0000D6AF","#0000D6AF",150524.09
+"194847","KEVIN MULLIN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",10400
+"1952318","TEHAMA COUNTY DEMOCRATIC CENTRAL CMTE OF CALIFORNIA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",150000
+"19533","SAN JOSE FIRE FIGHTERS LOCAL 230","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",7782.25
+"19544","HEAT & FROST INSULATORS LOCAL 5","General Trade Unions","Labor","Construction unions",96.3369963369963,3.66300366300366,"#0000EBAF","#0000EBAF",13650
+"19557","CALIFORNIA CONFERENCE OF MACHINISTS & AEROSPACE WORKERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5750
+"19595","CALIFORNIA STATE ASSOCIATION OF ELECTRICAL WORKERS","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",193700
+"196","ALTICOR","Retail Sales","General Business","Direct sales",82.3529411764706,17.6470588235294,"#0000A3AF","#0000A3AF",8500
+"19613","ELECTRICAL WORKERS LOCAL 595","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",22700
+"19629","ELECTRICAL WORKERS LOCAL 18","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",32000
+"19647","ELECTRICAL WORKERS LOCAL 302","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",25300
+"1965","OWENS-ILLINOIS","Miscellaneous Manufacturing & Distributing","General Business","Glass products",100,0,"#0000FFAF","#0000FFAF",14200
+"19652","ELECTRICAL WORKERS LOCAL 332","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",24700
+"196624","KUBA & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"19671","ELECTRICAL WORKERS LOCAL 477","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",15650
+"19684","ELECTRICAL WORKERS LOCAL 6","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",4700
+"19733","CALIFORNIA TEAMSTERS JOINT COUNCIL 42","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",40100
+"19766193","PARAMEDICS PLUS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2800
+"19775","TEAMSTERS LOCAL 287","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",5000
+"19815","ENGINEERS & SCIENTISTS OF CALIFORNIA LOCAL 20","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",500
+"19822","PROFESSIONAL & TECHNICAL ENGINEERS LOCAL 21","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",3800
+"19845","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 3 CALIFORNIA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",600
+"19860","CALIFORNIA-NEVADA CONFERENCE OF OPERATING ENGINEERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",33500
+"19872755","PACIFIC COAST COMPANIES INC","Uncoded","Uncoded","Uncoded",10.6382978723404,89.3617021276596,"#CC0000AF","#CC0000AF",9400
+"19874","OPERATING ENGINEERS LOCAL 12","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",42900
+"19894","OPERATING ENGINEERS LOCAL 3","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",89608.1
+"1990","PARSONS BRINCKERHOFF QUADE & DOUGLAS","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",5500
+"19912","OPERATING ENGINEERS LOCAL 501","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2500
+"199154","SHERNOFF BIDART ECHEVERRIA BENTLEY LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",14200
+"1993","PASKENTA BAND OF NOMLAKI INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",100,0,"#0000FFAF","#0000FFAF",20500
+"199650","KEVIN MCCARTHY CAMPAIGN CMTE OF CALIFORNIA","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",12600
+"19971","CALIFORNIA STATE COUNCIL OF LABORERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",244900
+"20033","LABORERS LOCAL 220","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",17200
+"20039","LABORERS LOCAL 300","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",19400
+"20103","NORTHERN CALIFORNIA DISTRICT COUNCIL OF LABORERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",32300
+"20107","LABORERS LOCAL 261","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",12500
+"20109","SOUTHERN CALIFORNIA DISTRICT COUNCIL OF LABORERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9400
+"20122","LOS ANGELES COUNTY FEDERATION OF LABOR","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",2000
+"20131","CALIFORNIA LABOR FEDERATION AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",112200
+"20205","CALIFORNIA TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",196600
+"2021","PEPSICO","Food & Beverage","General Business","Beverages (non-alcoholic)",79.7135965561801,20.2864034438199,"#000094AF","#000094AF",29576.46
+"2029","PERSONAL CARE PRODUCTS COUNCIL","Pharmaceuticals & Health Products","Health","Health care products",100,0,"#0000FFAF","#0000FFAF",4000
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",92.4242424242424,7.57575757575758,"#0000D6AF","#0000D6AF",46200
+"2035","PACIFIC GAS & ELECTRIC CO","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",74.7219413549039,25.2780586450961,"#00007AAF","#00007AAF",98900
+"20368","CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",250400
+"20377","HEALTH CARE WORKERS LOCAL 250","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",93500
+"20416","SERVICE EMPLOYEES LOCAL 1021","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",2271
+"20436","SERVICE EMPLOYEES LOCAL 521","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",12000
+"20441","SERVICE EMPLOYEES LOCAL 721","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",8300
+"2046","PHILIP MORRIS","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",0,100,"#FF0000AF","#FF0000AF",29300
+"20471","SHEET METAL WORKERS LOCAL 104","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",37300
+"20472","SHEET METAL WORKERS LOCAL 105","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5750
+"20499","WESTERN STATES COUNCIL OF SHEET METAL WORKERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",20000
+"20524","CALIFORNIA STATE PIPE TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",142100
+"20584","PLUMBERS & PIPEFITTERS LOCAL 342","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",15200
+"20590","PLUMBERS & FITTERS LOCAL 38","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",12400
+"20644","PLUMBERS & PIPEFITTERS LOCAL 467","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",37900
+"20662","PLUMBERS & PIPEFITTERS LOCAL 78","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6500
+"20664","PLUMBERS STEAMFITTERS & REFRIGERATION FITTERS LOCAL 393","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9250
+"20667","SPRINKLER FITTERS & APPRENTICES LOCAL 483","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6250
+"20671","SPRINKLER FITTERS LOCAL 709","General Trade Unions","Labor","Construction unions",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",1750
+"20698","AUTO WORKERS REGION 5","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",8000
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",76.3560131396766,23.6439868603234,"#000085AF","#000085AF",106581.01
+"20831","NORTHERN CALIFORNIA REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",41500
+"20839","SOUTHWEST REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",79000
+"20872","FOOD & COMMERCIAL WORKERS LOCAL 135","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",8700
+"20888","FOOD & COMMERCIAL WORKERS LOCAL 324","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",12600
+"20902","FOOD & COMMERCIAL WORKERS LOCAL 770","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",34500
+"20912","FOOD & COMMERCIAL WORKERS REGION 8 GOLDEN STATE COUNCIL","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",32800
+"21036","AMERICAN SUBCONTRACTORS ASSOCIATION OF CALIFORNIA","General Contractors","Construction","Builders associations",80,20,"#000099AF","#000099AF",1250
+"2104","PRICEWATERHOUSECOOPERS","Miscellaneous Finance","Finance, Insurance & Real Estate","Financial services & consulting",81.0964083175803,18.9035916824197,"#00009EAF","#00009EAF",52900
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",6200
+"2124","PRUDENTIAL FINANCIAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",68.75,31.25,"#00005CAF","#00005CAF",8000
+"214","APOLLO GROUP","Education","Government Agencies/Education/Other","Schools & colleges",93.75,6.25,"#0000DBAF","#0000DBAF",32000
+"2144","QUALCOMM","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",80,20,"#000099AF","#000099AF",25000
+"21443571","LYFT INC","Miscellaneous Transport","Transportation","Taxicabs",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"2166057","FOSTER INTERSTATE MEDIA INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",10800
+"2180235","WESTERN DENTAL SERVICES INC","Health Professionals","Health","Dentists",100,0,"#0000FFAF","#0000FFAF",8400
+"2186","RECORDING INDUSTRY ASSOCITION OF AMERICA","Recorded Music Production","Communications & Electronics","Recorded music & music production",100,0,"#0000FFAF","#0000FFAF",9650
+"218640","HEALTHPLUS SHARED SERVICES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4200
+"2189","RELX GROUP","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",100,0,"#0000FFAF","#0000FFAF",5000
+"21931","FIONA MA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5645.2
+"219558","SUNEDISON","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",6500
+"22011","PHIL TING CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",19100
+"2205759","SAFEWAY INC","Food Processing & Sales","Agriculture","Food stores",100,0,"#0000FFAF","#0000FFAF",28300
+"22145","SERVICE EMPLOYEES LOCAL 1000","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",71700
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",50,50,"#000000AF","#000000AF",31600
+"22215038","ENTERTAINMENT UNION COALITION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8400
+"22215040","AFFORDABLE HOUSING","Uncoded","Uncoded","Uncoded",87.220447284345,12.779552715655,"#0000BDAF","#0000BDAF",31300
+"22215117","WOMEN'S POLITICAL COMMITTEE STATE ACCOUNT","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8400
+"22215189","PACIFIC WATER QUALITY ASSOCIATION","Uncoded","Uncoded","Uncoded",70.5882352941177,29.4117647058824,"#000066AF","#000066AF",4250
+"22215213","ASSOCIATION OF ORANGE COUNTY DEPUTY SHERIFFS","Uncoded","Uncoded","Uncoded",62.6865671641791,37.3134328358209,"#00003DAF","#00003DAF",6700
+"22215354","PAT BATES CAMPAIGN CMTE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",25500
+"22215415","ROBERT HERTZBERG CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",47500
+"22218026","OLSEN FOR ASSEMBLY 2014","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",9400
+"22218079","BRIAN DAHLE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",80.7692307692308,19.2307692307692,"#000099AF","#000099AF",5200
+"22218134","INDEPENDENT INSURANCE","Uncoded","Uncoded","Uncoded",50.7246376811594,49.2753623188406,"#000000AF","#000000AF",20700
+"22220681","JACKSON FOR SENATE 2016","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",24300
+"22229927","TERRA-GEN FINANCE COMPANY LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",13000
+"22236620","INDEPENDENT INSURANCE PAC IIPAC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",20000
+"22237157","FOX ENTERTAINMENT GROUP INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",15500
+"22237497","KING'S PAWNSHOP DBA KING'S JEWELRY & LOAN","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"22237829","NAFTEX OPERATING CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"22238124","E & B NATURAL RESOURCES MGMT CORPORATION","Uncoded","Uncoded","Uncoded",92.3076923076923,7.69230769230769,"#0000D6AF","#0000D6AF",6500
+"22238216","VAQUERO ENERGY INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"22238636","ROBERTSON'S","Uncoded","Uncoded","Uncoded",31.5789473684211,68.4210526315789,"#610000AF","#610000AF",3800
+"22243","JUDY CHU FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",6200
+"22244965","COMERICA INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5000
+"22251855","CALIFORNIA REFUSE RECYCLING COUNCIL SOUTH","Uncoded","Uncoded","Uncoded",55.1724137931034,44.8275862068966,"#00001AAF","#00001AAF",7250
+"22251879","CA MORTGAGE BANKERS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5500
+"22252073","ORANGE COUNTY EMPLOYEES ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8300
+"22252206","FIRST AMERICAN TITLE INSURANCE CO.","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"22252827","ATLAS LOAN & JEWELRY COMPANY INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"22252902","RINCON BAND OF LUISENO MISSION INDIANS OF THE RINCON RESERVATION, CALIFORNIA","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",4500
+"22252941","HUMBOLDT REDWOOD CO LLC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",2000
+"22252976","ALLIANCE FOR SOLAR CHOICE","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",84.1269841269841,15.8730158730159,"#0000ADAF","#0000ADAF",6300
+"22253001","BG LOAN & JEWELRY CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"22253080","INDEPENDENT INSURANCE IIPAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8500
+"22253519","PERRIS PAWN EARLY PAYDAY INC","Uncoded","Uncoded","Uncoded",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",450
+"22253656","CA VETERINARY MEDICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",79.3814432989691,20.6185567010309,"#000094AF","#000094AF",9700
+"22254030","APARTMENT ASSOCIATION OF GREATER LOS ANGELES","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",4500
+"22254036","PLUM HEALTHCARE GROUP LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",18000
+"22254197","INTERNATIONAL SLEEP PRODUCTS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"22254381","DART CONTAINER CORPORATION","Uncoded","Uncoded","Uncoded",85,15,"#0000B3AF","#0000B3AF",20000
+"22257516","S&F MANAGEMENT COMPANY LLC","Uncoded","Uncoded","Uncoded",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",9000
+"22258792","ROCKPORT HEALTHCARE SERVICES","Uncoded","Uncoded","Uncoded",69.811320754717,30.188679245283,"#000061AF","#000061AF",26500
+"22259144","WESTSIDE SOBER LIVING CENTERS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"22259721","BRIAN JONES FOR ASSEMBLY 2014","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6200
+"22259733","CALIFORNIA ORTHOPAEDIC ASSOCIATION","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",5000
+"22267984","CALIFORNIA VETERINARY MEDICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",79.0199081163859,20.9800918836141,"#000094AF","#000094AF",32650
+"22268474","CALIFORNIA STEEL INDUSTRIES INC","Uncoded","Uncoded","Uncoded",51.6129032258064,48.3870967741936,"#000005AF","#000005AF",7750
+"22278758","SUNPOWER CORPORATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",12000
+"22285276","CALIFORNIA ASSOCIATION OF COLLECTORS","Uncoded","Uncoded","Uncoded",46.6666666666667,53.3333333333333,"#140000AF","#140000AF",7500
+"22285489","CRISTINA GARCIA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5000
+"22285784","INDEPENDENT ENERGY PRODUCERS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",12000
+"22294","LAW OFFICES OF LAWRENCE A STRICK","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1600
+"22298506","CALIFORNIA STATE RETIREES","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",2500
+"22301930","YAROSLAVSKY FOR SUPERVISOR 2010","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5200
+"22310659","GALGIANI FOR SENATE 2016","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"22322596","LOS ANGELES COUNTY MEDICAL ASSOCIATION PAC LACPAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4000
+"22323561","UNITED FIRE FIGHTERS OF LOS ANGELES CITY LOCAL 112","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"22327","MARK LENO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",9400
+"2233551","ACCESS DENTAL PLAN","Health Professionals","Health","Dentists",100,0,"#0000FFAF","#0000FFAF",14500
+"2234","RITE AID","Retail Sales","General Business","Drug stores",75,25,"#00007FAF","#00007FAF",8000
+"22342270","GOODFELLAS PAWN SHOP INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"22346","TONY MENDOZA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",25200
+"22361017","GOLDEN GATE RESTAURANT ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"22378","PAVLEY FOR SENATE 2012","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",16400
+"22406718","CALIFORNIA METALS COALITION","Uncoded","Uncoded","Uncoded",45.2674897119342,54.7325102880658,"#1A0000AF","#1A0000AF",12150
+"22407337","GRIMMWAY ENTERPRISES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",12600
+"22508","HEAT & FROST INSULATORS LOCAL 16","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5600
+"22540","OCCUPATIONAL THERAPY ASSOCIATION OF CALIFORNIA","Health Professionals","Health","Other non-physician health practitioners",100,0,"#0000FFAF","#0000FFAF",3500
+"2254618","MCCORMICK AMBULANCE","Health Services","Health","Health care services",62.5,37.5,"#00003DAF","#00003DAF",1600
+"2255766","PHILIPS ELECTRONICS","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",100,0,"#0000FFAF","#0000FFAF",2500
+"2258075","ENCORE CAPITAL","Securities & Investment","Finance, Insurance & Real Estate","Venture capital",95.8333333333333,4.16666666666667,"#0000E5AF","#0000E5AF",24000
+"226122","WESTERN PROPANE GAS ASSOCIATION","Oil & Gas","Energy & Natural Resources","LPG/Liquid propane dealers & producers",100,0,"#0000FFAF","#0000FFAF",3000
+"2291703","LEWIS INVESTMENT COMPANY LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1125
+"2303","SAN MANUEL BAND OF MISSION INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",72.8958630527817,27.1041369472183,"#000070AF","#000070AF",70100
+"23037","BILL MONNING CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",29400
+"23043","FABIAN NUNEZ CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",13000
+"23128","YOCHA DEHE WINTUN NATION","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",77.6876267748479,22.3123732251521,"#00008AAF","#00008AAF",98600
+"2330585","REGINALD JONES-SAWYER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",26200
+"2333166","CALIFORNIA SEED ASSOCIATION","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",7000
+"2333368","DAIRY INSTITUTE LEGISLATIVE COMMITTEE","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",100,0,"#0000FFAF","#0000FFAF",16200
+"23337","JERRY HILL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",27200
+"2340271","CEMENT MASONS LOCAL 600","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"2343083","CALIFORNIA AMBULATORY SURGERY ASSOCIATION","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",33200
+"2344","SEMPRA ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",74.069118994845,25.930881005155,"#00007AAF","#00007AAF",86383.49
+"23473","THEATRICAL STAGE EMPLOYEES LOCAL 16","General Trade Unions","Labor","Entertainment unions",100,0,"#0000FFAF","#0000FFAF",3500
+"2350411","ME FOX & COMPANY INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",810.58
+"23534","CALIFORNIA PRODUCER-HANDLER ASSOCIATION","Crop Production & Basic Processing","Agriculture","Vegetables, fruits & tree nuts",76.7441860465116,23.2558139534884,"#000085AF","#000085AF",4300
+"23598517","CONNIE M LEYVA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",22372.31
+"23642","DART CONTAINER","Miscellaneous Manufacturing & Distributing","General Business","Paper, glass & packaging materials",93.3333333333333,6.66666666666667,"#0000DBAF","#0000DBAF",45000
+"23826","BEN HUESO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",18300
+"2383","SIERRA PACIFIC INDUSTRIES","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",81.3084112149533,18.6915887850467,"#00009EAF","#00009EAF",10700
+"239880","CAL-PT","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2050
+"2404204","HEARING HEALTHCARE PROVIDERS","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",5300
+"2409991","UNITED AGRICULTURAL","Uncoded","Uncoded","Uncoded",48.780487804878,51.219512195122,"#0A0000AF","#0A0000AF",8200
+"2416014","GREATER ANESTHESIA SERVICE","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",28000
+"242686","GGNSC ADMINISTRATIVE SERVICES","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",9500
+"2433","SOUTHERN WINE & SPIRITS","Beer, Wine & Liquor","General Business","Liquor wholesalers",80.5555555555556,19.4444444444444,"#000099AF","#000099AF",61200
+"2434","SOUTHWEST AIRLINES","Air Transport","Transportation","Airlines",100,0,"#0000FFAF","#0000FFAF",3000
+"24413","STOREFRONT POLITICAL MEDIA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6688.59
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",100,0,"#0000FFAF","#0000FFAF",16597
+"24538","TONI ATKINS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",6200
+"24570965","LOS ANGELES COUNTY WASTE MANAGEMENT ASSOCIATION","Uncoded","Uncoded","Uncoded",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",2600
+"24577351","COMMUNITIES FOR CALIFORNIA CARDROOMS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",5700
+"24724788","PACIFIC LIFE","Uncoded","Uncoded","Uncoded",72.0538720538721,27.9461279461279,"#000070AF","#000070AF",59400
+"24765514","SUNRUN INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6000
+"24802084","GILEAD SCIENCES INC","Pharmaceuticals & Health Products","Health","Biotech products & research",91.5254237288136,8.47457627118644,"#0000D1AF","#0000D1AF",29500
+"249271","EISAI INC FKA MGI PHARMA INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",20500
+"249601","BAY 101","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",7300
+"2500015","COTCHETT PITRE & MCCARTHY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",9688.4
+"250757","THINKTANK LEARNING INC","Education","Government Agencies/Education/Other","Education",100,0,"#0000FFAF","#0000FFAF",1500
+"25141842","CA HOTEL & LODGING ASSOCIATION","Uncoded","Uncoded","Uncoded",56.5217391304348,43.4782608695652,"#00001FAF","#00001FAF",4600
+"25142246","CALIFORNIA PERMANENTE MEDICAL GROUPS","Health Services","Health","HMOs",81.7307692307692,18.2692307692308,"#00009EAF","#00009EAF",31200
+"25149200","GC OPERATING COMPANY LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5500
+"25153458","PARAMOUNT FARMING COMPANY LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",11200
+"25154168","ALECTO HEALTHCARE SERVICES LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"25154180","CALIFORNIA PHYSICAL THERAPY AKA CAL-PT","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"25160163","INLAND GROUP INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",7450
+"2516301","ADT LLC DBA ADT SECURITY SERVICES","Business Services","General Business","Security services",100,0,"#0000FFAF","#0000FFAF",6000
+"251863","HUMBOLDT COUNTY DEMOCRATIC CENTRAL CMTE OF CALIFORNIA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",220000
+"252646","WOMEN IN POWER","Women's Issues","Ideology/Single Issue","Women's issues",100,0,"#0000FFAF","#0000FFAF",25200
+"2538","SYCUAN BAND OF THE KUMEYAAY NATION","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",76.4900662251656,23.5099337748344,"#000085AF","#000085AF",60400
+"2542","SYNGENTA","Agricultural Services & Products","Agriculture","Agricultural chemicals (fertilizers & pesticides)",80,20,"#000099AF","#000099AF",5000
+"25485","WOLK FOR SENATE 2012","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3000
+"255","ASSOCIATED GENERAL CONTRACTORS OF CALIFORNIA","General Contractors","Construction","Builders associations",67.4901740595171,32.5098259404829,"#000057AF","#000057AF",89050
+"25565","CALIFORNIA CHARTER SCHOOLS ASSOCIATION","Public Education Policy","Ideology/Single Issue","School Choice Advocates",87.783595113438,12.216404886562,"#0000BDAF","#0000BDAF",57300
+"25568","HILEX POLY CO","Chemical & Related Manufacturing","General Business","Plastics & rubber processing and products",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",9000
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",93.4477379095164,6.55226209048362,"#0000DBAF","#0000DBAF",128200
+"256762","FWEDA SERVICES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5000
+"2568","TELACU INDUSTRIES","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",100,0,"#0000FFAF","#0000FFAF",10900
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",89.2008639308855,10.7991360691145,"#0000C7AF","#0000C7AF",46300
+"25719","CALIFORNIA ASSOCIATION OF DENTAL PLANS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",100,0,"#0000FFAF","#0000FFAF",4000
+"2572","TENET HEALTHCARE","Hospitals & Nursing Homes","Health","Hospitals",81.4432989690722,18.5567010309278,"#00009EAF","#00009EAF",48500
+"258","ASURION CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",100,0,"#0000FFAF","#0000FFAF",3000
+"25843","EDWARD P HERNANDEZ CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",15600
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",76.1395566210915,23.8604433789085,"#000085AF","#000085AF",192787.7
+"2612","TIME WARNER CABLE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",81.3008130081301,18.6991869918699,"#00009EAF","#00009EAF",86100
+"2617","TMG PARTNERS","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",100,0,"#0000FFAF","#0000FFAF",15100
+"26172019","WARNER BROS ENTERTAINMENT INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",26600
+"26262","BOB WIECKOWSKI CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",17800
+"262896","DAKOTA COMMUNICATIONS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"26355171","ELECTRICAL WORKERS LOCAL 11","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",47200
+"2636","TRAVELERS COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",77.1428571428572,22.8571428571429,"#00008AAF","#00008AAF",17500
+"26397345","FORTY NINERS FOOTBALL COMPANY LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",7000
+"26399305","THE GARDENS CASINO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",16800
+"26400499","COMMUNITY 1ST BANK","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2805.12
+"26401929","YELLOW CHECKER CAB CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",17200
+"264058","NATIONAL PEACE OFFICERS & FIRE FIGHTERS BENEFIT ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",26.3157894736842,73.6842105263158,"#7A0000AF","#7A0000AF",11400
+"264271","SCHOOLSFIRST FEDERAL CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",100,0,"#0000FFAF","#0000FFAF",2000
+"26453","DAS WILLIAMS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",11700
+"26539633","SAN PABLO LYTTON CASINO","Gambling & Casinos","General Business","Indian gaming",21.0031347962382,78.9968652037618,"#940000AF","#940000AF",31900
+"26717","COTCHETT, JOSEPH W","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",13400
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",79.020979020979,20.979020979021,"#000094AF","#000094AF",42900
+"2676","UNIONBANCAL CORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",100,0,"#0000FFAF","#0000FFAF",2000
+"2678","UNITE HERE! INTERNATIONAL UNION","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",10200
+"26788896","GRANT THORNTON LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5000
+"2679","UNITED AIRLINES","Air Transport","Transportation","Airlines",100,0,"#0000FFAF","#0000FFAF",19800
+"268386","RICK ENGINEERING CO","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",1425
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",100,0,"#0000FFAF","#0000FFAF",5000
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",59.4202898550725,40.5797101449275,"#00002EAF","#00002EAF",20700
+"26989","HOLLY J MITCHELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",41100
+"270106","HONOR","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",11500
+"2710","UPS","Air Transport","Transportation","Express delivery services",56.7084078711986,43.2915921288014,"#00001FAF","#00001FAF",55900
+"2722","USAA","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",79.0220820189274,20.9779179810726,"#000094AF","#000094AF",63400
+"2723","UTILITY WORKERS UNION OF AMERICA / UWUA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"2725","VALERO ENERGY","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",60.8695652173913,39.1304347826087,"#000033AF","#000033AF",23000
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",81.5307820299501,18.4692179700499,"#00009EAF","#00009EAF",60100
+"2751","VIEJAS BAND OF KUMEYAAY INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",69.9040767386091,30.0959232613909,"#000061AF","#000061AF",83400
+"2755","VISA INC","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",89.0625,10.9375,"#0000C7AF","#0000C7AF",32000
+"27630051","WINE INSTITUTE OF CALIFORNIA","Uncoded","Uncoded","Uncoded",46.659554607281,53.340445392719,"#140000AF","#140000AF",7499
+"27685298","CALIFORNIA INFILL BUILDERS FEDERATION","General Contractors","Construction","Builders associations",100,0,"#0000FFAF","#0000FFAF",10800
+"27703290","LARGE SCALE SOLAR ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",22200
+"27704228","COMERICA INCORPORATED","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"27704851","OWENS-ILLINOIS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3500
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",52.1739130434783,47.8260869565217,"#00000AAF","#00000AAF",46000
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",83.160621761658,16.839378238342,"#0000A8AF","#0000A8AF",77200
+"2779","WALT DISNEY","TV & Movie Production/Distribution","Communications & Electronics","Broadcasting & motion pictures",65.482761508451,34.517238491549,"#00004DAF","#00004DAF",34628.9
+"278389","LOS ANGELES COUNTY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",3935.71
+"279084","MEDNAX SERVICES","Health Professionals","Health","Physicians",100,0,"#0000FFAF","#0000FFAF",7100
+"27918652","ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS STATE","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",4000
+"27918680","CALIFORNIA ASSOCIATION OF HEALTH PLANS","Uncoded","Uncoded","Uncoded",60.6113362542839,39.3886637457161,"#000033AF","#000033AF",15508.65
+"27919836","CARGO PAC CALIFORNIA TRUCKING ASSOCIATION","Uncoded","Uncoded","Uncoded",64.1025641025641,35.8974358974359,"#000047AF","#000047AF",23400
+"27929103","CAPPS-INDEPENDENT COALITION OF EDUCATORS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",44000
+"28218456","WASTE RESOURCES OF GARDENA, INC.","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",10900
+"28220357","CA PAWNBROKERS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"28337","TED GAINES CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",22500
+"2834","WESTERN GROWERS ASSOCIATION","Crop Production & Basic Processing","Agriculture","Farmers, in general",100,0,"#0000FFAF","#0000FFAF",19200
+"2838","WESTERN UNITED DAIRYMENS ASSOCIATION","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",79.8850574712644,20.1149425287356,"#000094AF","#000094AF",17400
+"28995989","SANTA CLARA & SAN BENITO COUNTIES BUILDING & CONSTRUCTION TRADES COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2600
+"29026322","CORDOBA CORPORATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6200
+"290457","DISTRICT COUNCIL OF IRONWORKERS OF THE STATE OF CALIFORNIA & VICINITY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",16100
+"29115120","YUM! BRANDS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3317.91
+"2912","YAHOO! INC","Computer Equipment & Services","Communications & Electronics","Online computer services",90,10,"#0000CCAF","#0000CCAF",10000
+"29214751","EMPLOYERS EIG SERVICES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4000
+"2923","ZENITH INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",81.5384615384615,18.4615384615385,"#00009EAF","#00009EAF",45500
+"29261728","MOTION PICTURE ASSOCIATION OF AMERICA CALIFORNIA","Uncoded","Uncoded","Uncoded",97.3684210526316,2.63157894736842,"#0000F0AF","#0000F0AF",9500
+"2937","CALIFORNIA ATTORNEYS ADMINISTRATIVE LAW JUDGES & HEARING OFFICERS IN STATE EMPLOYMENT","Public Sector Unions","Labor","State & local government employee unions",95.3632148377125,4.63678516228748,"#0000E5AF","#0000E5AF",32350
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",70.5882352941177,29.4117647058824,"#000066AF","#000066AF",22100
+"2941","STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",210400
+"29536","OSTEOPATHIC PHYSICIANS & SURGEONS OF CALIFORNIA","Health Professionals","Health","Physicians",100,0,"#0000FFAF","#0000FFAF",2685.28
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",100,0,"#0000FFAF","#0000FFAF",15859.62
+"299019","RECOLOGY INC","Uncoded","Uncoded","Uncoded",95.4128440366973,4.58715596330275,"#0000E5AF","#0000E5AF",32700
+"301810","SUNRUN INC","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",7600
+"30347","BRIDGEPOINT EDUCATION","Education","Government Agencies/Education/Other","Education",89.3048128342246,10.6951871657754,"#0000C7AF","#0000C7AF",37400
+"30417","CALIFORNIA ROOFPAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",8900
+"3053","AKIN GUMP STRASS HAUER & FELD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3500
+"306952","CALIFORNIA ELECTRICAL CONTRACTORS","Special Trade Contractors","Construction","Electrical contractors",73.6842105263158,26.3157894736842,"#000075AF","#000075AF",9500
+"308076","CALIFORNIA HEALTHCARE INSTITUTE","Pharmaceuticals & Health Products","Health","Biotech products & research",100,0,"#0000FFAF","#0000FFAF",15322.72
+"3106","CALIFORNIA APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",75.6463719766472,24.3536280233528,"#00007FAF","#00007FAF",119900
+"3122","CALIFORNIA ASSOCIATION OF MARRIAGE & FAMILY THERAPISTS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",61.2903225806452,38.7096774193548,"#000038AF","#000038AF",15500
+"3125","ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",75.3635498371715,24.6364501628285,"#00007FAF","#00007FAF",57029.32
+"3127","ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",88.6211512717537,11.3788487282463,"#0000C2AF","#0000C2AF",74700
+"3140","AUBURN MANOR HOLDING CORP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",82.4561403508772,17.5438596491228,"#0000A3AF","#0000A3AF",5700
+"318158","MCCARTHY RANCH","Food & Beverage","General Business","Restaurants & drinking establishments",100,0,"#0000FFAF","#0000FFAF",1900
+"31870","MACPHERSON OIL CO","Oil & Gas","Energy & Natural Resources","Oil & gas",100,0,"#0000FFAF","#0000FFAF",4000
+"32018160","ASSOCIATED BUILDERS & CONTRACTORS OF SOUTHERN CALIFORNIA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3700
+"32021489","PLUMBERS & STEAMFITTERS LOCAL 398","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",1250
+"320353","GOLDEN BEAR INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",7500
+"32077","MORIARITY & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1000
+"32114617","CALIFORNIA GRAPE & TREE FRUIT LEAGUE FRUITPAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2250
+"321951","CALIFORNIA REFUSE RECYCLING COUNCIL NORTH","Waste Management","Energy & Natural Resources","Waste management",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",7000
+"32213771","NORTHERN CALIFORNIA WATER ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",7000
+"32215251","CALIFORNIA CONTRACT CITIES ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"322343","RENEE HATCHWELL CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",579.73
+"32248843","LUCKY CHANCES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4500
+"32301","CALIFORNIA SOLAR ENERGY INDUSTRIES ASSOCIATION","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",6500
+"3231","BICYCLE CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",9199.7
+"32312","CALIFORNIA PAWNBROKERS ASSOCIATION","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",72.3837209302326,27.6162790697674,"#000070AF","#000070AF",68800
+"324758","FRESNO COUNTY DEMOCRATIC CENTRAL CMTE OF CALIFORNIA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",118000
+"32495","EMD SERONO INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",2500
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",75,25,"#00007FAF","#00007FAF",4000
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",85,15,"#0000B3AF","#0000B3AF",10000
+"32651","SOLARCITY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",97.6947944770964,2.3052055229036,"#0000F0AF","#0000F0AF",43380.08
+"3267","CALIFORNIA BUILDING INDUSTRY ASSOCIATION","Home Builders","Construction","Residential construction",65.8719052037626,34.1280947962374,"#00004DAF","#00004DAF",78381.17
+"32719587","ENGINEERING CONTRACTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",6500
+"32722641","CASEY GERRY SCHENK FRANCAVILLA BLATT & PENFIELD LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",7600
+"32747324","SOUTHERN CALIFORNIA PIPE TRADES DISTRICT COUNCIL 16","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",34800
+"3275","CALIFORNIA CABLE & TELECOMMUNICATIONS ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",74.0382890969309,25.9617109030691,"#00007AAF","#00007AAF",83584.63
+"32772977","CALIFORNIA HOTEL & LODGING ASSOCIATION","Uncoded","Uncoded","Uncoded",88.4615384615385,11.5384615384615,"#0000C2AF","#0000C2AF",13000
+"32773","CALIFORNIA AIDS PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4500
+"3278","CALIFORNIA APPLICANTS ATTORNEYS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",8155.92
+"3279","CALIFORNIA ASSOCIATION OF HEALTH UNDERWRITERS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",58.2938388625592,41.7061611374408,"#000029AF","#000029AF",42200
+"328","BAXTER HEALTHCARE","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",4500
+"3280","CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN","Public Sector Unions","Labor","Police & fire fighters unions and associations",96.3150621833257,3.68493781667434,"#0000EBAF","#0000EBAF",108550
+"3281","CALIFORNIA ASSOCIATION OF PROFESSIONAL SCIENTISTS","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",15500
+"32816","CALIFORNIA PODIATRIC ASSOCIATION","Health Professionals","Health","Other physician specialists",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",10500
+"3282","CALIFORNIA ASSOCIATION OF PSYCHIATRIC TECHNICIANS","Health Professionals","Health","Psychiatrists & psychologists",91.5865384615385,8.41346153846154,"#0000D1AF","#0000D1AF",41600
+"3283","CALIFORNIA BEER & BEVERAGE DISTRIBUTORS","Beer, Wine & Liquor","General Business","Liquor wholesalers",85.6837606837607,14.3162393162393,"#0000B3AF","#0000B3AF",46800
+"3285","CALIFORNIA COMMERCE CLUB","Gambling & Casinos","General Business","Casinos, racetracks & gambling",68.6567164179104,31.3432835820896,"#00005CAF","#00005CAF",13400
+"3286","CALIFORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",78.9227166276347,21.0772833723653,"#00008FAF","#00008FAF",106750
+"3287","CALIFORNIA CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",69.3780227991511,30.6219772008489,"#000061AF","#000061AF",78048.52
+"32872068","EXCEL PROPERTY MANAGEMENT SERVICES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6200
+"3288","CALIFORNIA FACULTY ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",191988.61
+"3289","CALIFORNIA FORESTRY ASSOCIATION","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",83.0510274577491,16.9489725422509,"#0000A8AF","#0000A8AF",17890.76
+"32890376","AFSCME LOCAL 685","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",3500
+"32901","SIMS METAL MANAGEMENT","Uncoded","Uncoded","Uncoded",94.2528735632184,5.74712643678161,"#0000E0AF","#0000E0AF",8700
+"3291","CALIFORNIA GROCERS ASSOCIATION","Food Processing & Sales","Agriculture","Food stores",79.7687861271676,20.2312138728324,"#000094AF","#000094AF",17300
+"3294","CALIFORNIA MANUFACTURERS & TECHNOLOGY ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",73.0769230769231,26.9230769230769,"#000075AF","#000075AF",26000
+"3295","CALIFORNIA NURSES ASSOCIATION / NATIONAL NURSES ORGANIZING CMTE","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",207000
+"3296","CALIFORNIA REFUSE RECYCLING COUNCIL","Waste Management","Energy & Natural Resources","Waste management",82.9059829059829,17.0940170940171,"#0000A3AF","#0000A3AF",29250
+"3298","CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION / CSEA","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",163100
+"3299","CALIFORNIA SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",54.5945945945946,45.4054054054054,"#000014AF","#000014AF",18500
+"33","ADVANCE AMERICA CASH ADVANCE CENTERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",88.4861603647584,11.5138396352416,"#0000C2AF","#0000C2AF",26055.6
+"331","BAYER AG","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",7000
+"3332535","PHILLIPS 66","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",55.4817275747508,44.5182724252492,"#00001AAF","#00001AAF",30100
+"33354936","CALIFORNIA STATE FIRE FIGHTERS ASSOCIATION","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"33420","CALIFORNIA WATER SERVICE CO","Water Utilities","Energy & Natural Resources","Water utilities",94.1176470588235,5.88235294117647,"#0000E0AF","#0000E0AF",8500
+"33422","NORTHERN CALIFORNIA LONGSHORE & WAREHOUSE DISTRICT COUNCIL","Transportation Unions","Labor","Merchant marine & longshoremen unions",100,0,"#0000FFAF","#0000FFAF",1850
+"334905","SAN LUIS OBISPO COUNTY REPUBLICAN CENTRAL CMTE OF CALIFORNIA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",180700
+"33668","EDWARD R ORTEGA A LAW CORPORATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",750
+"33694","GARAVENTA ENTERPRISES/SEG TRUCKING","Trucking","Transportation","Trucking companies & services",100,0,"#0000FFAF","#0000FFAF",10400
+"33781","STATE COALITION OF PROBATION ORGANIZATIONS","Civil Servants/Public Officials","Government Agencies/Education/Other","Courts & justice system",100,0,"#0000FFAF","#0000FFAF",7000
+"33783","TEAMSTERS LOCAL 315","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",2500
+"3406","CONTINENTAL CASUALTY DBA CNA INSURANCE CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",91.6666666666667,8.33333333333333,"#0000D1AF","#0000D1AF",12000
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",90.5063291139241,9.49367088607595,"#0000CCAF","#0000CCAF",15800
+"34341","PACIFIC COMPENSATION INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",100,0,"#0000FFAF","#0000FFAF",2000
+"3443","AMERICAN COUNCIL OF ENGINEERING COMPANIES OF CALIFORNIA","Construction Services","Construction","Engineering, architecture & construction management services",70.0680272108844,29.9319727891156,"#000066AF","#000066AF",36750
+"3446","CONSUMER ATTORNEYS ASSOCIATION OF LOS ANGELES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",18600
+"3447","CONSUMER ATTORNEYS OF CALIFORNIA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",111712.86
+"3462","DEL MAR THOROUGHBRED CLUB","Gambling & Casinos","General Business","Casinos, racetracks & gambling",88.0952380952381,11.9047619047619,"#0000C2AF","#0000C2AF",21000
+"34620","QUADRIC GROUP INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",3000
+"34677","TEAMSTERS LOCAL 853","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",2450
+"3468","CALIFORNIA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",85.4345165238678,14.5654834761322,"#0000B3AF","#0000B3AF",163400
+"348375","BLOOM ENERGY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",16950
+"3488","E & J GALLO WINERY","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",100,0,"#0000FFAF","#0000FFAF",27500
+"35141","AFSCME LOCAL 2428","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",3000
+"35331","EXECUTIVE COUNCIL OF HOME OWNERS","Real Estate","Finance, Insurance & Real Estate","Real estate",100,0,"#0000FFAF","#0000FFAF",9500
+"35516","CALIFORNIA WIND & ENERGY ASSOCIATION","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",5500
+"356307","HARBORSIDE HEALTH CENTER","Hospitals & Nursing Homes","Health","Health care institutions",100,0,"#0000FFAF","#0000FFAF",5500
+"35703","SAN JOSE WATER CO","Water Utilities","Energy & Natural Resources","Water utilities",100,0,"#0000FFAF","#0000FFAF",1250
+"35745","SOUTH BAY LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1350
+"357613","UNITED PACIFIC WASTE","Waste Management","Energy & Natural Resources","Waste management",100,0,"#0000FFAF","#0000FFAF",5200
+"35931553","AMAZON.COM","Retail Sales","General Business","Retail trade",62.5,37.5,"#00003DAF","#00003DAF",16800
+"35953","AMERICAN FIDELITY CORPORATION","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",62.5,37.5,"#00003DAF","#00003DAF",4000
+"36","ADVANCED MEDICAL TECHNOLOGY ASSOCIATION","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",100,0,"#0000FFAF","#0000FFAF",3015.61
+"362035","BRJ & ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"3622","CALIFORNIA FARM BUREAU FEDERATION","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",53.9130434782609,46.0869565217391,"#00000FAF","#00000FAF",69000
+"3627","FEDERAL EXPRESS","Air Transport","Transportation","Express delivery services",81.9277108433735,18.0722891566265,"#00009EAF","#00009EAF",16600
+"36408","CALIFORNIA ASSOCIATION OF LICENSED SECURITY AGENCIES GUARDS & ASSOCIATES","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",9500
+"3664","FIELDSTEAD & CO","Christian Conservative","Ideology/Single Issue","Christian Coalition, religious right",0,100,"#FF0000AF","#FF0000AF",5500
+"3705455","ELECTRICAL WORKERS UNIDENTIFIED","General Trade Unions","Labor","Electrical workers/IBEW",74.6223564954683,25.3776435045317,"#00007AAF","#00007AAF",33100
+"37202145","WATSON LAND COMPANY PAC","Uncoded","Uncoded","Uncoded",21.0526315789474,78.9473684210526,"#940000AF","#940000AF",19000
+"37236461","TENASKA INC","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",100,0,"#0000FFAF","#0000FFAF",4500
+"37505304","EBAY INC","Uncoded","Uncoded","Uncoded",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",6000
+"376766","PLUMBERS & PIPEFITTERS LOCAL 250","General Trade Unions","Labor","Construction unions",96.9465648854962,3.05343511450382,"#0000EBAF","#0000EBAF",65500
+"376821","BULLETIN DISPLAYS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8450
+"377","BLUE DIAMOND GROWERS","Crop Production & Basic Processing","Agriculture","Vegetables, fruits & tree nuts",100,0,"#0000FFAF","#0000FFAF",6500
+"3778","FOX GROUP","TV & Movie Production/Distribution","Communications & Electronics","Broadcasting & motion pictures",100,0,"#0000FFAF","#0000FFAF",10500
+"3793","GENENTECH INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",89.3822393822394,10.6177606177606,"#0000C7AF","#0000C7AF",51800
+"379362","LOS ANGELES COUNTY LINCOLN CLUBS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",8650
+"37999108","AMGEN","Pharmaceuticals & Health Products","Health","Biotech products & research",56.6666666666667,43.3333333333333,"#00001FAF","#00001FAF",30000
+"3801","GMRI INC","Food & Beverage","General Business","Restaurants & drinking establishments",84.7328244274809,15.2671755725191,"#0000ADAF","#0000ADAF",13100
+"3809","GTECH CORP","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",7500
+"38212474","OF THE AMERICAN STAFFING ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"3823","HOFFMAN LA ROCHE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",2000
+"384","BOEHRINGER INGELHEIM PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",4500
+"385","BOEING CO","Air Transport","Transportation","Aircraft manufacturers",100,0,"#0000FFAF","#0000FFAF",12500
+"38513","CALCOM","Telecom Services & Equipment","Communications & Electronics","Telecommunications",62.0786516853933,37.9213483146067,"#00003DAF","#00003DAF",17800
+"38560247","PLUMBING, PIPING & MECHANICAL CONTRACTORS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"38560249","FOOD & COMMERCIAL WORKERS LOCAL 5","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",11250
+"38560340","COX COMMUNICATIONS & ITS SUBSIDIARIES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",10300
+"38567005","APARTMENT ASSOCIATION OF GREATER LOS ANGELES CANDIDATE","Uncoded","Uncoded","Uncoded",93.75,6.25,"#0000DBAF","#0000DBAF",8000
+"38567015","CA ASSOCIATION OF HEALTH PLANS","Uncoded","Uncoded","Uncoded",77.2727272727273,22.7272727272727,"#00008AAF","#00008AAF",8800
+"38575541","PLUMBERS & PIPEFITTERS LOCAL 447 FEDERAL POLITICAL ACTION FUND","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8400
+"38577594","TAYLOR & RING LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",10800
+"38583859","CA PARK & RECREATION SOCIETY CANDIDATE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"38585392","SAN FRANCISCO FIRE FIGHTERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"38587183","TEAMSTERS LOCAL 665","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",17500
+"38596434","A TEICHERT & SON INC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",2500
+"38597962","CAPG PHYSICIAN GROUP","Uncoded","Uncoded","Uncoded",51.6279069767442,48.3720930232558,"#000005AF","#000005AF",21500
+"38601311","HEAT & FROST INSULATORS & ALLIED WORKERS LOCAL 5","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1750
+"3868","INTUIT INC","Computer Equipment & Services","Communications & Electronics","Computer software",100,0,"#0000FFAF","#0000FFAF",11000
+"3897","IRVINE CO","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",12.9533678756477,87.0466321243523,"#C20000AF","#C20000AF",19300
+"390014","UNITE HERE! LOCAL 11","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",3000
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",86.6666666666667,13.3333333333333,"#0000B8AF","#0000B8AF",15000
+"39374","PSOMAS","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",2000
+"394840","CALIFORNIA ASSOCIATION OF LICENSED INVESTIGATORS","Miscellaneous Services","General Business","Services",17.2413793103448,82.7586206896552,"#A80000AF","#A80000AF",1450
+"396033","HARRIS & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",4500
+"397370","CALIFORNIA CLINICAL LABORATORY ASSOCIATION","Health Services","Health","Medical laboratories",100,0,"#0000FFAF","#0000FFAF",5000
+"39783","CALIFORNIA ASSOCIATION OF PRIVATE POST-SECONDARY SCHOOLS","Education","Government Agencies/Education/Other","Education",50,50,"#000000AF","#000000AF",2000
+"39946","VANIR CONSTRUCTION MANAGEMENT","Construction Services","Construction","Engineering, architecture & construction management services",27.3972602739726,72.6027397260274,"#750000AF","#750000AF",3650
+"39949","VARNER & BRANDT LLP","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"4011","CALIFORNIA LEAGUE OF CONSERVATION VOTERS","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",11500
+"4029","LOS ALAMITOS RACE COURSE","Gambling & Casinos","General Business","Casinos, racetracks & gambling",60,40,"#000033AF","#000033AF",5000
+"40341","SEARLES VALLEY MINERALS","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"4041458","COMMUNITY INSURANCE CO DBA ANTHEM BLUE CROSS & BLUE SHIELD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",71.9626168224299,28.0373831775701,"#00006BAF","#00006BAF",21400
+"4047","MAJESTIC REALTY CO","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",54.8076923076923,45.1923076923077,"#000014AF","#000014AF",20800
+"40580568","CALIFORNIA ASSOCIATION OF WINEGRAPE GROWERS STATE","Uncoded","Uncoded","Uncoded",56.140350877193,43.859649122807,"#00001FAF","#00001FAF",5700
+"40613800","PEPSICO INC","Uncoded","Uncoded","Uncoded",78.242475522785,21.757524477215,"#00008FAF","#00008FAF",20682.5
+"40613814","ABATE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"40613898","SOUTHERN CALIFORNIA CONTRACTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6000
+"40613901","CALIFORNIA DISTRIBUTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",6000
+"40613902","CALIFORNIA PRODUCER-HANDLER ASSOCIATION","Uncoded","Uncoded","Uncoded",75.0437828371278,24.9562171628722,"#00007FAF","#00007FAF",7994
+"40613910","AMALGAMATED TRANSIT UNION LOCAL 1277","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6000
+"40613912","CALIFORNIA MOTORCYCLE DEALERS ASSOCIATION","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"40613917","CA RICE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",13600
+"40613964","YELLOW CAB COOPERATIVE INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"40614104","TECHNET","Uncoded","Uncoded","Uncoded",75.9908188891432,24.0091811108568,"#00007FAF","#00007FAF",12495.22
+"40614250","ORANGE COUNTY AUTOMOBILE DEALERS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6000
+"40638","CLEAN POWER CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2500
+"4065","MAYER BROWN LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2000
+"4068","CALIFORNIA MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",78.6490345507696,21.3509654492304,"#00008FAF","#00008FAF",156901.57
+"4100","BARONA BAND OF MISSION INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",73.4551326979516,26.5448673020484,"#000075AF","#000075AF",125071.26
+"4102","PALA BAND OF MISSION INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",100,0,"#0000FFAF","#0000FFAF",20700
+"4103","PECHANGA BAND OF LUISENO MISSION INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",75.5729794933655,24.4270205066345,"#00007FAF","#00007FAF",165800
+"4105","SANTA YNEZ BAND OF CHUMASH MISSION INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",89.9346405228758,10.0653594771242,"#0000C7AF","#0000C7AF",76500
+"412","BRINKER INTERNATIONAL","Food & Beverage","General Business","Restaurants & drinking establishments",100,0,"#0000FFAF","#0000FFAF",2000
+"4120","NATIONAL ASSOCIATION OF INDUSTRIAL & OFFICE PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",11000
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",95.1219512195122,4.8780487804878,"#0000E5AF","#0000E5AF",20500
+"4150","OAK TREE RACING ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",92.8571428571429,7.14285714285714,"#0000D6AF","#0000D6AF",21000
+"42133319","KPMG","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",5000
+"42168","SEA WORLD PARKS & ENTERTAINMENT","Lodging & Tourism","General Business","Resorts",100,0,"#0000FFAF","#0000FFAF",12400
+"421713","SOLAR ENERGY INDUSTRIES ASSOCIATION","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",10600
+"421828","FACEBOOK","Computer Equipment & Services","Communications & Electronics","Online computer services",73.4306569343066,26.5693430656934,"#000075AF","#000075AF",68500
+"4222","PACIFIC LIFE INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Life insurance",27.1844660194175,72.8155339805825,"#750000AF","#750000AF",10300
+"4234","PARAMOUNT PICTURES GROUP","TV & Movie Production/Distribution","Communications & Electronics","Motion picture production & distribution",92.8571428571429,7.14285714285714,"#0000D6AF","#0000D6AF",14000
+"4238","PEACE OFFICERS RESEARCH ASSOCIATION OF CALIFORNIA","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",117350
+"424678","EAGLE CREST ENERGY CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"4264","PERSONAL INSURANCE FEDERATION OF CALIFORNIA","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",74.9136536919486,25.0863463080514,"#00007AAF","#00007AAF",111614.5
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",84,16,"#0000ADAF","#0000ADAF",12500
+"432","BUILDING OWNERS & MANAGERS ASSOCIATION OF CALIFORNIA","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",53.4883720930233,46.5116279069767,"#00000FAF","#00000FAF",17200
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",54.5185185185185,45.4814814814815,"#000014AF","#000014AF",67500
+"435854","HOLT OF CALIFORNIA","Automotive","Transportation","Truck & automotive parts and accessories",100,0,"#0000FFAF","#0000FFAF",4700
+"43622858","CALIFORNIA CONSTRUCTION & INDUSTRIAL MATERIALS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4000
+"43686362","CALIFORNIA CATTLEMEN'S ASSOCIATION","Uncoded","Uncoded","Uncoded",70.0854700854701,29.9145299145299,"#000066AF","#000066AF",11700
+"44","AECOM","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",6000
+"4414","PROFESSIONAL ENGINEERS IN CALIFORNIA GOVERNMENT","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",148150
+"4416","LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",16700
+"4438","CALIFORNIA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",77.9469164715066,22.0530835284934,"#00008AAF","#00008AAF",256200
+"4463","CALIFORNIA RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",65.2284263959391,34.7715736040609,"#00004DAF","#00004DAF",39400
+"4480284","SUNOVION","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",6000
+"454","CALIFORNIA ASSOCIATION OF HOSPITALS & HEALTH SYSTEMS","Hospitals & Nursing Homes","Health","Hospitals",82.2834645669291,17.7165354330709,"#0000A3AF","#0000A3AF",63500
+"4556410","PHARMACEUTICAL RESEARCH & MANUFACTURERS ASSOCIATION OF AMERICA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",87.2611464968153,12.7388535031847,"#0000BDAF","#0000BDAF",15700
+"456","CALIFORNIA CITRUS MUTUAL","Crop Production & Basic Processing","Agriculture","Vegetables, fruits & tree nuts",100,0,"#0000FFAF","#0000FFAF",9221.12
+"457","CALIFORNIA DAIRIES","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",100,0,"#0000FFAF","#0000FFAF",11000
+"459","CALPORTLAND CO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",20.8333333333333,79.1666666666667,"#990000AF","#990000AF",14400
+"46","AES CORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",6000
+"464","CALPINE CORP","Electric Utilities","Energy & Natural Resources","Independent power generation & cogeneration",97.3023688438708,2.69763115612918,"#0000F0AF","#0000F0AF",37069.56
+"4688","THE DOCTORS CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",74.5967741935484,25.4032258064516,"#00007AAF","#00007AAF",99200
+"4722","CALIFORNIA TRUCKING ASSOCIATION","Trucking","Transportation","Trucking",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",7000
+"4729","UNION OF AMERICAN PHYSICIANS & DENTISTS","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",42100
+"4730","AUBURN RANCHERIA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",3600
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",100,0,"#0000FFAF","#0000FFAF",19700
+"4757","WATSON LAND CO","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",48.5714285714286,51.4285714285714,"#0A0000AF","#0A0000AF",17500
+"4759","WESTERN MANUFACTURED HOUSING COMMUNITIES ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Mobile home dealers & parks",67.5213675213675,32.4786324786325,"#000057AF","#000057AF",35100
+"4767","WINE INSTITUTE","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",83.4304976100351,16.5695023899649,"#0000A8AF","#0000A8AF",36193
+"4777","YOUNGS MARKET CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",86.7647058823529,13.2352941176471,"#0000B8AF","#0000B8AF",34000
+"4778","DELTA WETLANDS PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",100,0,"#0000FFAF","#0000FFAF",4000
+"4795","TABLE MOUNTAIN RANCHERIA","Gambling & Casinos","General Business","Indian gaming",78.125,21.875,"#00008FAF","#00008FAF",16000
+"4806","CALIFORNIA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3335911.12
+"4807","CALIFORNIA DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",5889932.68
+"505817","ADMINISTRATIVE SERVICES COOPERATIVE","Business Services","General Business","Management consultants & services",100,0,"#0000FFAF","#0000FFAF",12000
+"506081","NEW FRONTIER DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",900
+"5146","FINANCIAL CENTER CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",100,0,"#0000FFAF","#0000FFAF",9000
+"519","CATERPILLAR","Building Materials & Equipment","Construction","Construction equipment",81.8731117824773,18.1268882175227,"#00009EAF","#00009EAF",66200
+"528","CENTENE CORP","Health Services","Health","HMOs",84.5679012345679,15.4320987654321,"#0000ADAF","#0000ADAF",32400
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",100,0,"#0000FFAF","#0000FFAF",3000
+"548","CH2M HILL","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",1500
+"557","CHARTER COMMNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",87.5,12.5,"#0000BDAF","#0000BDAF",48000
+"5605","7-ELEVEN","Oil & Gas","Energy & Natural Resources","Gasoline service stations",78.9473684210526,21.0526315789474,"#00008FAF","#00008FAF",19000
+"5630","ACE USA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",11000
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",50.0523560209424,49.9476439790576,"#000000AF","#000000AF",95500
+"5682","CALIFORNIA MANUFACTURED HOUSING INSTITUTE","Home Builders","Construction","Mobile home construction",47.9166666666667,52.0833333333333,"#0F0000AF","#0F0000AF",4800
+"57","AGUA CALIENTE BAND OF CAHUILLA INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",79.0055248618785,20.9944751381215,"#000094AF","#000094AF",72400
+"57016","ENSIGN FACILITY SERVICES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4000
+"577982","PAINTERS & ALLIED TRADES UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",8400
+"584","CIGNA CORP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",4500
+"590","CISCO SYSTEMS","Computer Equipment & Services","Communications & Electronics","Computers, components & accessories",100,0,"#0000FFAF","#0000FFAF",6000
+"59428","ASSOCIATED BUILDERS & CONTRACTORS CENTRAL CALIFORNIA CHAPTER","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",5200
+"600740","SANOFI US","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",10500
+"60346","TOYOTA MOTOR NORTH AMERICA","Automotive","Transportation","Auto manufacturers",100,0,"#0000FFAF","#0000FFAF",7000
+"604136","ELECTRICAL WORKERS LOCAL 1245","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",27400
+"606","CLOROX CO","Chemical & Related Manufacturing","General Business","Household cleansers & chemicals",89.7959183673469,10.2040816326531,"#0000C7AF","#0000C7AF",14700
+"6083","BROWNSTEIN HYATT FARBER & SCHRECK","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",4500
+"6143","CALIFORNIA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",63.572267920094,36.427732079906,"#000042AF","#000042AF",85100
+"6144","CALIFORNIA BUSINESS PROPERTIES ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",50,50,"#000000AF","#000000AF",4000
+"6146","CALIFORNIA CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",80.7228915662651,19.2771084337349,"#000099AF","#000099AF",58100
+"621600","RICHARD S (RICH) GORDON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",10200
+"623714","SAN DIEGO COUNTY APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",100,0,"#0000FFAF","#0000FFAF",2000
+"626924","KANSEN CHU CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4000
+"635723","HOLLIDAY ROCK CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",84.4868735083532,15.5131264916468,"#0000ADAF","#0000ADAF",41900
+"645","COMERICA BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",56.5217391304348,43.4782608695652,"#00001FAF","#00001FAF",11500
+"6458","COX COMMUNICATIONS","Miscellaneous Communications & Electronics","Communications & Electronics","Communications & electronics",83.6065573770492,16.3934426229508,"#0000A8AF","#0000A8AF",12200
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",16850
+"65333","CALIFORNIA ASSOCIATION OF NURSE ANESTHETISTS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",13400
+"65805","SHINGLE SPRINGS BAND MIWOK INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",11000
+"658485","COLISEUM LEXUS OF OAKLAND","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6750
+"65995","SHEPPARD MULLIN RICHTER & HAMPTON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",58.2114500626828,41.7885499373172,"#000029AF","#000029AF",2393
+"665957","LEE ANDREWS GROUP","Environmental Services & Equipment","Energy & Natural Resources","Environmental services, equipment & consulting",100,0,"#0000FFAF","#0000FFAF",6189.66
+"669699","SHARON RUNNER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",22000
+"671014","CALIFORNIA LANDSCAPE CONTRACTORS ASSOCIATION LAND","Special Trade Contractors","Construction","Landscaping & excavation services",100,0,"#0000FFAF","#0000FFAF",2000
+"673","CONSTELLATION BRANDS","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",100,0,"#0000FFAF","#0000FFAF",6568
+"675","CONSUMER TECHNOLOGY ASSOCIATION","Miscellaneous Communications & Electronics","Communications & Electronics","Communications & electronics",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",6000
+"686","COOPERATIVE OF AMERICAN PHYSICIANS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",91.4772727272727,8.52272727272727,"#0000D1AF","#0000D1AF",35200
+"6898","GEICO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",20.8333333333333,79.1666666666667,"#990000AF","#990000AF",7200
+"69355","CAPITAL CITY L & J INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"695","CORRECTIONS CORP OF AMERICA","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",82.4902723735408,17.5097276264591,"#0000A3AF","#0000A3AF",51400
+"695193","SANTA BARBARA COUNTY DEMOCRATIC CENTRAL CMTE OF CALIFORNIA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",170000
+"69576","HANSON BRIDGETT LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",5000
+"71426","VENTURA COUNTY PROFESSIONAL FIRE FIGHTERS LOCAL 1364","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",16800
+"72234","FIRE FIGHTERS LOCAL 55","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",8000
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",91.9117647058823,8.08823529411765,"#0000D1AF","#0000D1AF",27200
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",76.8421052631579,23.1578947368421,"#000085AF","#000085AF",47500
+"74867","NORTHERN CALIFORNIA CHAPTER NECA","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",100,0,"#0000FFAF","#0000FFAF",2250
+"75","ALASKA AIRLINES","Air Transport","Transportation","Airlines",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",4500
+"753","DARDEN RESTAURANTS","Food & Beverage","General Business","Restaurants & drinking establishments",50,50,"#000000AF","#000000AF",2000
+"7570","LOS ANGELES COUNTY LINCOLN CLUBS","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",6000
+"758040","VAN DE POL ENTERPRISES INC","Uncoded","Uncoded","Uncoded",19.2307692307692,80.7692307692308,"#9E0000AF","#9E0000AF",5200
+"760681","HELLER-MANUS ARCHITECTS","Construction Services","Construction","Architectural services",100,0,"#0000FFAF","#0000FFAF",1700
+"761","DAVITA INC","Hospitals & Nursing Homes","Health","Health care institutions",100,0,"#0000FFAF","#0000FFAF",16500
+"7710","MATSON NAVIGATION CO","Sea Transport","Transportation","Sea transport",59.1836734693878,40.8163265306122,"#00002EAF","#00002EAF",4900
+"773","DELOITTE","Accountants","Finance, Insurance & Real Estate","Accountants",86.4197530864197,13.5802469135802,"#0000B8AF","#0000B8AF",40500
+"7839","MINUTEMAN PRESS","Printing & Publishing","Communications & Electronics","Commercial printing & typesetting",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"789","DEVRY EDUCATION GROUP","Education","Government Agencies/Education/Other","Schools & colleges",100,0,"#0000FFAF","#0000FFAF",7000
+"793","DIAGEO","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",87.8889562621766,12.1110437378234,"#0000BDAF","#0000BDAF",24770.78
+"793796","ALBERTSONS INC","Food Processing & Sales","Agriculture","Food stores",100,0,"#0000FFAF","#0000FFAF",8000
+"7991","NATIONAL ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",75.4385964912281,24.5614035087719,"#00007FAF","#00007FAF",28500
+"79985","BRIGHTSOURCE ENERGY INC","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",5500
+"806","DIRECTORS GUILD OF AMERICA","General Trade Unions","Labor","Entertainment unions",100,0,"#0000FFAF","#0000FFAF",7000
+"83099","KABATECK BROWN KELLNER LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",48.3054527408449,51.6945472591551,"#0A0000AF","#0A0000AF",1934.44
+"83220","WATT PAC INC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",80,20,"#000099AF","#000099AF",2500
+"8331868","SMART","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",8000
+"83419","BERKELEY FIRE FIGHTERS LOCAL 1227","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",8900
+"8383","PARDEE HOMES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"84385","HELENE SCHNEIDER FOR MAYOR","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",725
+"8663","REPUBLIC SERVICES","Waste Management","Energy & Natural Resources","Waste management",93.8436281551406,6.15637184485943,"#0000DBAF","#0000DBAF",24365
+"885","EDISON INTERNATIONAL","Electric Utilities","Energy & Natural Resources","Electric power utilities",71.7596566523605,28.2403433476395,"#00006BAF","#00006BAF",116500
+"8876","SHEA HOMES","Home Builders","Construction","Residential construction",100,0,"#0000FFAF","#0000FFAF",2000
+"893","EDWARDS LIFESCIENCES","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",84.4559585492228,15.5440414507772,"#0000ADAF","#0000ADAF",19300
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",51000
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",88.4453781512605,11.5546218487395,"#0000C2AF","#0000C2AF",47600
+"90264","AFSCME CALIFORNIA DISTRICT COUNCIL 36","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",2500
+"904","EMILYS LIST","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",25200
+"9099","TARGET CORP","Retail Sales","General Business","Department, variety & convenience stores",95.8333333333333,4.16666666666667,"#0000E5AF","#0000E5AF",24000
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",100,0,"#0000FFAF","#0000FFAF",29700
+"915","ENTERTAINMENT SOFTWARE ASSOCIATION","Computer Equipment & Services","Communications & Electronics","Computer software",73.7827715355805,26.2172284644195,"#000075AF","#000075AF",26700
+"9181","TESORO CORP","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",95.5947136563877,4.40528634361234,"#0000E5AF","#0000E5AF",22700
+"931","ERNST & YOUNG","Accountants","Finance, Insurance & Real Estate","Accountants",92,8,"#0000D6AF","#0000D6AF",25000
+"940","EXPERIAN","Miscellaneous Finance","Finance, Insurance & Real Estate","Credit reporting services & collection agencies",78.5714285714286,21.4285714285714,"#00008FAF","#00008FAF",7000
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",4500
+"9439","WASTE CONNECTIONS","Waste Management","Energy & Natural Resources","Waste management",53.5714285714286,46.4285714285714,"#00000FAF","#00000FAF",11200
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",11000
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",60.4166666666667,39.5833333333333,"#000033AF","#000033AF",24000
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",63.203214695752,36.796785304248,"#000042AF","#000042AF",174200
+"9585","CALIFORNIA FINANCIAL SERVICES ASSOCIATION","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",74.1935483870968,25.8064516129032,"#00007AAF","#00007AAF",15500
+"9588","CHECK INTO CASH","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",79.1666666666667,20.8333333333333,"#000094AF","#000094AF",19200
+"9846","AGRICULTURAL COUNCIL OF CALIFORNIA","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",73.1707317073171,26.8292682926829,"#000075AF","#000075AF",20500
+"986","FIRST AMERICAN TITLE INSURANCE CO","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",72.3320158102767,27.6679841897233,"#000070AF","#000070AF",25300
+"9904","ALLERGAN","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",89.2241379310345,10.7758620689655,"#0000C7AF","#0000C7AF",23200
+"9943","AOL TIME WARNER","Computer Equipment & Services","Communications & Electronics","Online computer services",100,0,"#0000FFAF","#0000FFAF",14000
+"9954894","MERCK SHARP & DOHM CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",95.4819277108434,4.51807228915663,"#0000E5AF","#0000E5AF",33200
